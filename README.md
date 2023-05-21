@@ -1,5 +1,11 @@
-### Hi there 👋
 
+<a style="
+    width: 100%;
+    display: block;
+" href="https://git.io/typing-svg"><img style="
+    width: 100%;
+    display: block;
+" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=2B9B97&center=true&vCenter=true&width=435&lines=Hi%2C+I'am+Phan+Minh+Nh%C6%B0%E1%BB%9Dng+;I'am++19+yearold+;I'am+from+VietNam" alt="Typing SVG" /></a>
 <!--
 **PhanNhuong123/PhanNhuong123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
