@@ -31,6 +31,11 @@
     <img src="https://komarev.com/ghpvc/?username=PhanNhuong123&style=for-the-badge" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhanNhuong123&theme=dark" alt="GitHub Streak Stats">
+</p>
+
+
 
 <!--
 **PhanNhuong123/PhanNhuong123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
