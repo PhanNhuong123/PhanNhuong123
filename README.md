@@ -10,6 +10,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhanNhuong123&layout=compact&theme=dark&hide_border=true)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PhanNhuong123&show_icons=true&theme=dark&hide_border=true)
 
+### Tech & Tools Preference
+![.Net](https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 <!--
 **PhanNhuong123/PhanNhuong123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
