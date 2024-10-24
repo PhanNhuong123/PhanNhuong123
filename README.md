@@ -13,7 +13,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to solve programming puzzles and challenges.
 
-![Skills](https://skillicons.dev/icons?i=cs,blazor,docker,angular,tailwind,mssql,.net)
 <h2 align="center">Technologies & Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
