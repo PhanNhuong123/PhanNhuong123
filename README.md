@@ -17,9 +17,20 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhanNhuong123&layout=compact&theme=dark&hide_border=true)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PhanNhuong123&show_icons=true&theme=dark&hide_border=true)
 
-### Tech & Tools Preference
-![.Net](https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<h2 align="center">Technologies & Tools</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL">
+</p>
+![Skills](https://skillicons.dev/icons?i=cs,blazor,docker,angular,tailwind,mssql)
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=PhanNhuong123&style=for-the-badge" alt="Profile Views" />
+</p>
 <!--
 **PhanNhuong123/PhanNhuong123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
