@@ -25,9 +25,7 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=PhanNhuong123&style=for-the-badge" alt="Profile Views" />
 </p>
-<p align="center">
-![Skills](https://skillicons.dev/icons?i=cs,blazor,docker,angular,tailwind,mssql)
-</p>
+![Skills](https://skillicons.dev/icons?i=cs,blazor,docker,angular,tailwind,mssql,.net)
 
 <!--
 **PhanNhuong123/PhanNhuong123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
