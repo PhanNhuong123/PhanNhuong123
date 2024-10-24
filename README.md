@@ -37,7 +37,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhanNhuong123&theme=dark" alt="GitHub Streak Stats">
 </p>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Server coding" width="200"/>
+</p>
 <p align="center">
   <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43K/giphy.gif" alt="Coding" width="200"/>
 </p>
