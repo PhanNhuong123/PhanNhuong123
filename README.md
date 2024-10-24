@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
+  <h3>Welcome to my GitHub!</h3>
+</p>
 <a style="
     width: 100%;
     display: block;
