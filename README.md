@@ -1,4 +1,10 @@
+# Hi, I'm Phan Minh Nhường 👋
 
+- 🔭 I’m currently working on building awesome apps using .NET and MAUI.
+- 🌱 I’m currently learning more about cloud computing and Firebase services.
+- 📫 Reach me at: [www.nhuong.zzz@gmail.com](mailto:www.nhuong.zzz@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to solve programming puzzles and challenges.
 <a style="
     width: 100%;
     display: block;
