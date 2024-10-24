@@ -14,9 +14,7 @@
     display: block;
 " src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=2B9B97&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Phan+Minh+Nh%C6%B0%E1%BB%9Dng+;I'am++19+years+old+;I'm+from+Vietnam" alt="Typing SVG" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhanNhuong123&layout=compact&theme=dark&hide_border=true)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PhanNhuong123&show_icons=true&theme=dark&hide_border=true)
-
+![Skills](https://skillicons.dev/icons?i=cs,blazor,docker,angular,tailwind,mssql)
 <h2 align="center">Technologies & Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
@@ -26,7 +24,6 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL">
 </p>
-![Skills](https://skillicons.dev/icons?i=cs,blazor,docker,angular,tailwind,mssql)
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=PhanNhuong123&style=for-the-badge" alt="Profile Views" />
