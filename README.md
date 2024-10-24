@@ -12,6 +12,8 @@
 - 📫 Reach me at: [www.nhuong.zzz@gmail.com](mailto:www.nhuong.zzz@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to solve programming puzzles and challenges.
+
+![Skills](https://skillicons.dev/icons?i=cs,blazor,docker,angular,tailwind,mssql,.net)
 <h2 align="center">Technologies & Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
@@ -25,7 +27,7 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=PhanNhuong123&style=for-the-badge" alt="Profile Views" />
 </p>
-![Skills](https://skillicons.dev/icons?i=cs,blazor,docker,angular,tailwind,mssql,.net)
+
 
 <!--
 **PhanNhuong123/PhanNhuong123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
